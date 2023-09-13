@@ -1,4 +1,5 @@
-﻿#include<stdio.h>
+﻿//输入三个整数并判断其中最小的一个
+#include<stdio.h>
 void main()
 {
 	int a,b,c,min;
