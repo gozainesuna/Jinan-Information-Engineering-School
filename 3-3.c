@@ -1,4 +1,5 @@
 ﻿//输入三个整数并判断其中最小的一个
+
 #include<stdio.h>
 void main()
 {
@@ -6,6 +7,7 @@ void main()
 	
 	printf("输入a,b,c三个整数：");
 	scanf("%d %d %d",&a,&b,&c);
+	
 	if(a<b)
 		min = a ; 
 	else
