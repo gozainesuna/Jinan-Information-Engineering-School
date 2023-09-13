@@ -1,4 +1,6 @@
-﻿#include<stdio.h>
+﻿//输入三个整数并按照从小到大的顺序排列
+
+#include<stdio.h>
 void main()
 {
 	int a,b,c,tmp;
