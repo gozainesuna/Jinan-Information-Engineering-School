@@ -1,4 +1,5 @@
-﻿#include<stdio.h>
+﻿//本程序用于，输入一个整数并判断它是奇数还是偶数
+#include<stdio.h>
 void main()
 {
 	int i ; 
