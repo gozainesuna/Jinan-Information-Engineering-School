@@ -1,5 +1,4 @@
 ﻿#include <stdio.h>
-#define youhuilv printf("优惠率为 %d%%",r)
 
 void main()
 {
@@ -13,7 +12,6 @@ void main()
     if( m==6 || m==12)
     {
     	r = 10;
-        youhuilv;
 	}
 	
 	else
@@ -26,13 +24,11 @@ void main()
 		if( n>=20 )
 		{
 			r = 15;
-			youhuilv;
 		} 
 		
 		else if( n<20 && n>=1 )
 		{
 			r = 5;
-			youhuilv;
 		}
     }
 //----------------------------------------------------------------    
@@ -41,13 +37,11 @@ void main()
         if( n>=20 )
 		{
 			r = 30;
-			youhuilv;
 		} 
 		
 		else if( n<20 && n>=1 )
 		{
 			r = 20;
-			youhuilv;
 		}
     }
 //----------------------------------------------------------------    
@@ -55,5 +49,7 @@ void main()
     {
     	printf("月份输入错误");
 	}
+	
+	printf("优惠率为 %d%%",r);
 
 }
