@@ -4,6 +4,10 @@ void main()
 {
 	int n ;
 	long t = 1 ;
+
+
+
+
 	
 	printf("输入若干个整数，指代输入0为止：\n");
 	scanf("%d",&n);
