@@ -5,7 +5,7 @@ void main()
 	int num;
 	int b;
 	
-	ptinrf("输入一个整数：");
+	printf("输入一个整数：");
 	scanf("%d",&num);
 	
 	while(num);
