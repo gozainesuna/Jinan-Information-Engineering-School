@@ -17,11 +17,11 @@ void main()
 	else
 	{
 		while( n!=0 ) 
-		 {
+		{
 		 	t = t*n;
 		 	scanf("%d",&n);
-		 }
+		}
 		 
-		 printf("%ld\n",t);
+		printf("%ld\n",t);
 	}
 }
