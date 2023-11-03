@@ -1,17 +1,19 @@
-﻿#include<stdio.h>
+﻿//例题4-6
+//打印九九乘法表
+#include<stdio.h>
 void main()
 {
 	int i;
 	int j;
 	
-	for( i=1;	i<=9;	i++; )
+	for( i=1;	i<=9;	i++ )
 	{
 		printf("%5d",i);
 	}
 	
 	printf("\n------------------------------------\n");
 	
-	for( i=1;	i<=9;	i++; )
+	for( i=1;	i<=9;	i++ )
 	{
 		for( j=1;	j<=1;	j++ )
 		{

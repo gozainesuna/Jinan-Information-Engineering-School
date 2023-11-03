@@ -1,4 +1,6 @@
-﻿#include<stdio.h>
+﻿//例题4-4-1
+//1+2+3+4+5......+100之和
+#include<stdio.h>
 void main()
 {
 	int sum;

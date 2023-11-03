@@ -1,6 +1,7 @@
-﻿//求1+2+3+4+5......+100之和
+﻿//例题4-1-2
+//求1+2+3+4+5......+100之和
 #include<stdio.h>
-viod main()
+void main()
 {
 	int sum;
 	int i;

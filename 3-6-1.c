@@ -1,4 +1,6 @@
-﻿#include<stdio.h>
+﻿//例题3-6-1
+//
+#include<stdio.h>
 #include<math.h>
 void main()
 {

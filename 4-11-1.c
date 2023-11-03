@@ -3,7 +3,7 @@
 #include<stdio.h>
 void main()
 {
-	int a,b//输入的两个变量
+	int a,b;//输入的两个变量
 	int r;//余数
 	int tmp;//中间变量
 	

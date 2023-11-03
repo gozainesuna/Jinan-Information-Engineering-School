@@ -5,9 +5,9 @@ void main()
 {
 	int num;
 	int i;
-	int tang = 1;
+	int tag = 1;
 	
-	ptintf("请输入一个自然数：");
+	printf("请输入一个自然数：");
 	scanf("%d",&num);
 	
 	for( i=2; i<=num-1; i++ )
@@ -19,7 +19,7 @@ void main()
 		}
 	}
 	
-	if( tag==1 );
+	if( tag==1 )
 	{
 		printf("%d 是质数\n");
 	}

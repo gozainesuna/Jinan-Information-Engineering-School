@@ -6,7 +6,7 @@ void main()
 	int num;
 	int cnt=0;
 	
-	for( num=50; num<=100; num++ )；
+	for( num=50; num<=100; num++ );
 	{
 		if( num%7==0 )//1-100之间能被7整除的数
 		{
