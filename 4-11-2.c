@@ -18,12 +18,14 @@ void main()
 		a=b;
 		b=tmp;
 	}
+	
 	do
 	{
 		r=a%b;
 		a=b;
 		b=r;
 	}while(r);
+	
 	printf("最大公约数为：%d\n",a);
 	printf("最小公倍数为：%d\n",m/a);
 }
