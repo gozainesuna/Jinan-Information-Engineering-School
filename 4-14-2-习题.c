@@ -14,7 +14,7 @@ void main()
 	printf("a=");
 	scanf("%d",&a);
 	printf("n=");
-	scanf("%d",n);
+	scanf("%d",&n);
 	
 	t=a;
 	
