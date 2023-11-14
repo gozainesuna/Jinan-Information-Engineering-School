@@ -1,6 +1,6 @@
-﻿
-//23/5/30
-//总第1课
+﻿/*
+
+*/
 #include<stdio.h>
 void main();
 {
