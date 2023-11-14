@@ -1,4 +1,10 @@
-﻿#include<stdio.h>
+﻿//例题3-2-2
+
+/*
+	输入一个浮点数并输出它的绝对值
+*/
+
+#include<stdio.h>
 void main()
 {
 	float x ;
