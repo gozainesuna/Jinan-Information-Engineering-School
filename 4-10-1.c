@@ -1,9 +1,7 @@
 ﻿//例题4-10-1
-
 /*
 	输出100-200之间的所有素数
 */
-
 #include<stdio.h>
 #include<math.h>
 void main()

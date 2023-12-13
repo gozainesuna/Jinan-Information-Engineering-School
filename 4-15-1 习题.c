@@ -8,7 +8,7 @@ void main()
 	int b=1, sign=1;
 	float sum=0.0, t=1.0;
 	
-	while( fabs(t)>=0.0001)
+	while( fabs(t)>=0.0001 )
 	{
 		sum+=t*sign;
 		b+=2
